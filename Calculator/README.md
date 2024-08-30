@@ -22,7 +22,7 @@ To get started with Kotlin Calculator, clone the repository and import it into y
 
  **Clone the Repository**
  
-   git clone https://github.com/your-username/kotlin-calculator.git
+   git clone https://github.com/deep-cx-01/kotlin-calculator.git
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
